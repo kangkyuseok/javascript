@@ -1,39 +1,34 @@
-#contents {
+#contents{
     width: 450px;
     margin: 0 auto;
 }
-
-#contents img {
-    float: left;
+#contents img{
+    float:left;
     margin-right: 25px;
 }
-ul {
+ul{
     list-style: none;
     padding-top: 40px;
 }
-li {
+li{
     margin-bottom: 10px;
 }
-li label {
+li label{
     width: 80px;
     float: left;
     text-align: right;
 }
-input[type="text"] {
+input[type="text"]{
     width: 110px;
     padding: 5px 10px;
     margin: 0 5px 0 10px;
 }
-
-button {
+button{
     padding: 5px 10px;
     border: 1px solid #ccc;
     font-size: 1em;
 }
-#showResult {
+#showResult{
     margin-top: 20px;
     font-size: 1.5em;
 }
-
-
-
